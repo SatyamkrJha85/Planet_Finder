@@ -99,6 +99,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [your-email@example.com](mailto:your-email@example.com)
+Gmail - [Satyamkrjha@gmail.com](mailto:satyamkrjha85@gmail.com)
 
-Project Link: [https://github.com/username/planet-finder](https://github.com/username/planet-finder)
+Project Link: ([https://github.com/username/planet-finder](https://github.com/SatyamkrJha85/Planet_Finder))
