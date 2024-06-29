@@ -30,6 +30,9 @@
 ### Details Screen
 <img src="https://github.com/SatyamkrJha85/Planet_Finder/assets/111700337/077c85f0-f1a5-4d07-9382-83718e1a350b" alt="Details" width="500" height="300">
 
+## Demo
+
+Check out the demo on [LinkedIn](https://www.linkedin.com/posts/satyamkrjha_androiddevelopment-jetpackcompose-kotlin-activity-7212717877425057792-78Nr?utm_source=share&utm_medium=member_desktop).
 
 
 ## Installation
