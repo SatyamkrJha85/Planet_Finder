@@ -13,7 +13,7 @@
 - **Comprehensive Planet Data**: Access detailed information about each planet including its description, distance from the sun, number of moons, and more.
 - **Beautiful UI**: Leveraging Jetpack Compose, the app features a modern and intuitive user interface.
 - **Search Functionality**: Easily search for your favorite planets and get detailed descriptions.
-- **Popular Planets Section**: Quickly view the most popular planets and their information.
+- **Popular Planets Section**: Quickly view the most popular planets and their information..
 - **Edge-to-Edge Design**: Full-screen immersive experience.
 
 ## Screenshots
